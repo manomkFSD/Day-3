@@ -1,0 +1,19 @@
+var guvistudent={
+    "name":"manojkumar",
+    "age":"22",
+    "gender":"male",
+    "Professional Summary":"Motivated Service technician with 3.5 years of experience boosting the customer loyalty through individualized service, Inspection and maintainance Committed to srenghthening customer experience with positivityand professionalism and expertise as Japanese language translator. japanese certification (The foreigner automobile maintance technical intern training evaluation test ,N4 ,N5)",
+    "Work Experience":"UD Trucks Corporation, Japan - 3 Years  Followed factory and dealership standards to accurately perform repairs according to work order.  Japanese translation to the new intern trainees.  Customer support.  Diagnosed mechanical problems for repair or replacement.  Used critical thinking to break down problems, evaluate solutions and make decisions.  Actively listened to customers' requests, confirming full understanding before addressing concerns.  Proved successful working within tight deadlines and fast-paced atmosphere.  Identified issues, analysed information and provided solutions to problems.  Conducted full operational compliance inspections before releasing vehicles for use.",
+}
+
+for(var a in guvistudent){
+    console.log(a,guvistudent[a])
+}
+
+
+window is the main JavaScript object root, aka the global object in a browser, and it can also be treated as the root of the document object model. You can access it as window.
+window.screen or just screen is a small information object about physical screen dimensions.
+window.document or just document is the main object of the potentially visible (or better yet: rendered) document object model/DOM.
+
+
+
